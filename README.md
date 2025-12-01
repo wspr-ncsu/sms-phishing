@@ -1,6 +1,6 @@
-# SMS Phishing Code and Data Releases
+# SMS Phishing Data Releases
 
-This repository holds data, and documents relating to our paper "On SMS
+This repository holds data and documents relating to our paper "On SMS
 Phishing Tactics and Infrastructure."
 
 # Contents
